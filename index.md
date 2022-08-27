@@ -36,8 +36,8 @@
 ### 课程教材
 
 
-* 教材电子版 链接密码为OS2022 [下载地址](https://rec.ustc.edu.cn/share/269e71e0-0660-11ed-87e4-574a72a80241)  
-* 教材补充材料及课后扩展阅读 链接密码为OS2022[下载地址](https://rec.ustc.edu.cn/share/5af29eb0-208c-11ed-8014-19a7e943a851) 
+* 教材电子版  [下载地址](https://rec.ustc.edu.cn/share/269e71e0-0660-11ed-87e4-574a72a80241)  
+* 教材补充材料及课后扩展阅读 [下载地址](https://rec.ustc.edu.cn/share/5af29eb0-208c-11ed-8014-19a7e943a851) 
 
 
 ### 作业布置  
@@ -47,7 +47,6 @@
 
 
 ### 实验内容Ｏ(≧▽≦)Ｏ
-* 链接密码均为OS2022  
 
 * 实验课课件 [下载地址](https://rec.ustc.edu.cn/share/9bb14a50-208c-11ed-9047-ed450526ec05)
 
