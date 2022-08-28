@@ -37,8 +37,6 @@
 
 
 * 教材电子版  [下载地址](https://rec.ustc.edu.cn/share/68232f50-2699-11ed-ab8e-79d811111862)  
-* 教材补充材料及课后扩展阅读 [下载地址](https://rec.ustc.edu.cn/share/5af29eb0-208c-11ed-8014-19a7e943a851) 
-
 
 ### 作业布置  
 
@@ -77,14 +75,6 @@
 
 
 ### 实验课程指导时间
-
-
-### 参考教学视频
-
-- 硬件知识与OS基础教学视频 [下载地址](https://rec.ustc.edu.cn/share/bb03f280-208c-11ed-8bb8-a92aefa9ee5a)
-
-- Study Guides for this Course [下载地址](https://rec.ustc.edu.cn/share/d4015720-208c-11ed-b9e5-b960468cad8f)
-
 
 ### 课程幻灯片(*´・ｖ・)
 
