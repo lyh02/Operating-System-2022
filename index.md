@@ -36,7 +36,7 @@
 ### 课程教材
 
 
-* 教材电子版  [下载地址](https://rec.ustc.edu.cn/share/269e71e0-0660-11ed-87e4-574a72a80241)  
+* 教材电子版  [下载地址](https://rec.ustc.edu.cn/share/68232f50-2699-11ed-ab8e-79d811111862)  
 * 教材补充材料及课后扩展阅读 [下载地址](https://rec.ustc.edu.cn/share/5af29eb0-208c-11ed-8014-19a7e943a851) 
 
 
@@ -48,18 +48,18 @@
 
 ### 实验内容Ｏ(≧▽≦)Ｏ
 
-* 实验课课件 [下载地址](https://rec.ustc.edu.cn/share/9bb14a50-208c-11ed-9047-ed450526ec05)
+* 实验课课件 [下载地址](https://rec.ustc.edu.cn/share/8bbabf00-2699-11ed-a927-7b821b959479)
 
-* 实验指导书下载 [下载地址](https://rec.ustc.edu.cn/share/89a2f860-065a-11ed-8ef5-01ba98e12609) 
+* 实验指导书下载 [下载地址](https://rec.ustc.edu.cn/share/ad94b880-2699-11ed-8e43-63b9e58eb686) 
 * 实验指导书的GitBook版本（学堂在线的操作系统课程实验主页，可作为参考） [gitbook](https://chyyuu.gitbooks.io/ucore_os_docs/content/)
 
-* 实验报告示例 [下载地址](https://rec.ustc.edu.cn/share/be44e5e0-065a-11ed-b47f-2f464b8a4607) 
+* 实验报告示例 [下载地址](https://rec.ustc.edu.cn/share/9b66bad0-2699-11ed-a9b4-6f57a7ec8400) 
 
-* 实验虚拟机 [下载地址](https://rec.ustc.edu.cn/share/3a6ee1f0-065a-11ed-96fd-11c43c4f48dd) 
+* 实验虚拟机 [下载地址](https://rec.ustc.edu.cn/share/d6a5f390-2699-11ed-9a71-ed7d2b753d62) 
 
-* 实验环境安装手册 [下载地址](https://rec.ustc.edu.cn/share/e43c1780-065a-11ed-a100-610179dc94e2) 
+* 实验环境安装手册 [下载地址](https://rec.ustc.edu.cn/share/bbf23da0-2699-11ed-8af0-4fe39ac449bd) 
 
-* OS参考文献MIT_XV6 [下载地址](https://rec.ustc.edu.cn/share/360dbdb0-065b-11ed-8aab-9fc14199c6eb) 
+* OS参考文献MIT_XV6 [下载地址](https://rec.ustc.edu.cn/share/e3ac42c0-2699-11ed-bba1-3bb0a29e1ddb) 
 
 
 ### 实验布置
