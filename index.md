@@ -86,7 +86,7 @@
 ### 课程幻灯片(*´・ｖ・)
 
 为了保证课件的内容都是最新的，每节课的课件会在课前再进行放上去。
-- 01-Overview [下载地址]()
+- 01-Overview [下载地址](https://rec.ustc.edu.cn/share/412d5d70-278f-11ed-8477-f790a6fdaff3)
 
 - 02-OS Intro [下载地址]() 
 
