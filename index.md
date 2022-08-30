@@ -8,28 +8,29 @@
 #### 老师
 - **周鹏远** 
    
-  办公室：高新区信智大楼406  
-  邮箱：pyzhou@ustc.edu.cn
+  office：高新区信智大楼406  
+  Email：pyzhou@ustc.edu.cn
 
 - **张弛**  
   
-  办公室：西区科技西楼 907   
-  邮箱：chizhang@ustc.edu.cn
+  office：西区科技西楼 907   
+  Email：chizhang@ustc.edu.cn
 
 #### 助教
 - **林怡航**  
   
   办公室：高新区信智大楼405  
-  邮箱：lyh1998@mail.ustc.edu.cn 
+  Email：lyh1998@mail.ustc.edu.cn 
 
 - **唐玮**  
   
-  办公室：高新区信智大楼405  
-  邮箱：weitang@mail.ustc.edu.cn
+  office：高新区信智大楼405  
+  Email：weitang@mail.ustc.edu.cn
+  
 - **鲍杰**  
   
-  办公室：高新区信智大楼405  
-  邮箱：baojie1996@mail.ustc.edu.cn
+  office：高新区信智大楼405  
+  Email：baojie1996@mail.ustc.edu.cn
 
 
 
@@ -45,7 +46,7 @@
 ### 作业答案
 
 
-### 实验内容Ｏ(≧▽≦)Ｏ
+### 实验内容Ｏ(≧▽≦)Ｏ(TBD)
 
 * 实验课课件 [下载地址](https://rec.ustc.edu.cn/share/8bbabf00-2699-11ed-a927-7b821b959479)
 
