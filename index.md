@@ -1,7 +1,7 @@
 #      The 2022 operating system course homepage(￣▽￣)／
 ###    We will put all the materials required for the course on this page, and you can download them according to your own needs
 
-### Course Instroduction
+### Course Introduction
 
 If you have any questions and suggestions about the course, experiments and teaching, please contact the teachers and TAs。
 
@@ -37,13 +37,13 @@ If you have any questions and suggestions about the course, experiments and teac
 ### Course Materials
 
 
-* Course materials  [Download url](https://rec.ustc.edu.cn/share/68232f50-2699-11ed-ab8e-79d811111862)  
-* Supplementary materials and extended reading after class [Download url](https://rec.ustc.edu.cn/share/2520d480-2753-11ed-a521-2f5fcd9031e9) 
+* Textbook  [Download url](https://rec.ustc.edu.cn/share/68232f50-2699-11ed-ab8e-79d811111862)  
+* Supplementary materials and extended reading  [Download url](https://rec.ustc.edu.cn/share/2520d480-2753-11ed-a521-2f5fcd9031e9) 
 
-### Homework Assignment
+### Assignment
 
 
-### Homework Answer
+### Assignment Answer
 
 
 ### Experiment MaterialsＯ(≧▽≦)Ｏ(TBD)
@@ -55,17 +55,17 @@ If you have any questions and suggestions about the course, experiments and teac
 
 
 
-### Experimental Course Guidance Time 
+### Date of experiment Course Guidance  
 
-### Reference Teaching Video
+### Reference tutorial video
 
-- Hardware knowledge and OS basic teaching video [Download url](https://rec.ustc.edu.cn/share/6d8b28d0-2753-11ed-ad15-3b3a2798a624)
+- Hardware knowledge and OS basic tutorial video [Download url](https://rec.ustc.edu.cn/share/6d8b28d0-2753-11ed-ad15-3b3a2798a624)
 
 - Study Guides for this Course [Download url](https://rec.ustc.edu.cn/share/b70c6af0-2753-11ed-b01d-7bea9482e54e)
 
-### PPT(*´・ｖ・)
+### Slides(*´・ｖ・)
 
-In order to ensure that the contents of the courseware are up-to-date, the ppt of each class will be put on before the class
+In order to ensure that the contents of the courseware are up-to-date, the slides of each class will be put on before the class
 - 01-Overview [Download url](https://rec.ustc.edu.cn/share/412d5d70-278f-11ed-8477-f790a6fdaff3)
 
 - 02-OS Intro [Download url]() 
