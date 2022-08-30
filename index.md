@@ -6,28 +6,28 @@
 If you have any questions and suggestions about the course, experiments and teaching, please contact the teachers and TAs。
 
 #### Teachers
-- **周鹏远** 
+- **Pengyuan Zhou** 
    
   Office：高新区信智大楼 406  
   Email：pyzhou@ustc.edu.cn
 
-- **张弛**  
+- **Chi Zhang**  
   
   Office：西区科技西楼 907   
   Email：chizhang@ustc.edu.cn
 
 #### TAs
-- **林怡航**  
+- **Yihang Lin**  
   
   Office：高新区信智大楼 405  
   Email：lyh1998@mail.ustc.edu.cn 
 
-- **唐玮**  
+- **Wei Tang**  
   
   Office：高新区信智大楼 405  
   Email：weitang@mail.ustc.edu.cn
   
-- **鲍杰**  
+- **Jie Bao**  
   
   Office：高新区信智大楼 405  
   Email：baojie1996@mail.ustc.edu.cn
