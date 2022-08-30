@@ -1,4 +1,4 @@
-#      The 2022 operating system course homepage(￣▽￣)／
+#      The 2022 Operating System Course Homepage(￣▽￣)／
 ###    We will put all the materials required for the course on this page, and you can download them according to your own needs
 
 ### Course Introduction
