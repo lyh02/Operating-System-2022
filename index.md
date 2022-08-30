@@ -8,28 +8,28 @@
 #### 老师
 - **周鹏远** 
    
-  office：高新区信智大楼406  
+  Office：高新区信智大楼406  
   Email：pyzhou@ustc.edu.cn
 
 - **张弛**  
   
-  office：西区科技西楼 907   
+  Office：西区科技西楼 907   
   Email：chizhang@ustc.edu.cn
 
 #### 助教
 - **林怡航**  
   
-  办公室：高新区信智大楼405  
+  Office：高新区信智大楼405  
   Email：lyh1998@mail.ustc.edu.cn 
 
 - **唐玮**  
   
-  office：高新区信智大楼405  
+  Office：高新区信智大楼405  
   Email：weitang@mail.ustc.edu.cn
   
 - **鲍杰**  
   
-  office：高新区信智大楼405  
+  Office：高新区信智大楼405  
   Email：baojie1996@mail.ustc.edu.cn
 
 
