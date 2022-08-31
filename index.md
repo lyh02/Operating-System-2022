@@ -37,7 +37,7 @@ If you have any questions and suggestions about the course, experiments and teac
 ### Course Materials
 
 
-* Textbook  [Download url](https://rec.ustc.edu.cn/share/68232f50-2699-11ed-ab8e-79d811111862)  
+* Textbook  [Download url](https://pan.baidu.com/s/14aBMySS6pRj7pqxlbqcMOg)  
 * Supplementary materials and extended reading  [Download url](https://rec.ustc.edu.cn/share/2520d480-2753-11ed-a521-2f5fcd9031e9) 
 
 ### Assignment
@@ -67,7 +67,7 @@ If you have any questions and suggestions about the course, experiments and teac
 
 Corresponding PPTs will be uploaded before the class to ensure the contents up-to-date.
 
-- 01-Overview [Download url](https://rec.ustc.edu.cn/share/412d5d70-278f-11ed-8477-f790a6fdaff3)
+- 01-Overview [Download url](https://pan.baidu.com/s/1LOrqqqiIyfI15ThURy7eUg) 
 
 - 02-OS Intro [Download url]() 
 
