@@ -67,9 +67,9 @@ If you have any questions and suggestions about the course, experiments and teac
 
 Corresponding PPTs will be uploaded before the class to ensure the contents up-to-date.
 
-- 01-Overview [Download url](https://pan.baidu.com/s/1LOrqqqiIyfI15ThURy7eUg) 
+- 01-Overview [Download url](https://pan.baidu.com/s/1LOrqqqiIyfI15ThURy7eUg) (2022/08/30)
 
-- 02-OS Intro [Download url]() 
+- 02-OS Intro [Download url](https://pan.baidu.com/s/1bTZR1PIW1M6x5X8qenNFVg) （2022/09/01）
 
 - 03-Hardware Support [Download url]() 
 
