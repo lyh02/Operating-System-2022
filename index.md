@@ -37,7 +37,7 @@ If you have any questions and suggestions about the course, experiments and teac
 ### Course Materials
 
 
-* Textbook  [Download url](https://pan.baidu.com/s/14aBMySS6pRj7pqxlbqcMOg)  
+* Textbook  [Download url](https://rec.ustc.edu.cn/share/762b4f90-2a9d-11ed-930b-671135a6ff84)  (2022.09.02)
 * Supplementary materials and extended reading  [Download url](https://rec.ustc.edu.cn/share/2520d480-2753-11ed-a521-2f5fcd9031e9) 
 
 ### Assignment
