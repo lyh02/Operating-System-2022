@@ -4,7 +4,7 @@ title: "homework1"
 permalink: /homework/1/
 ---
 
-- P103: Problems 2.1, 2.2, 2.3, 2.4, 2.6 (8th Edition)
+#      P103: Problems 2.1, 2.2, 2.3, 2.4, 2.6 (8th Edition)
 
 **2.1** Suppose that we have a multiprogrammed computer in which each job has identical characteristics. In one computation period, *T*, for a job, half the time is spent in I/O and the other half in processor activity. Each job runs for a total of *N* periods. Assume that a simple round-robin scheduling is used, and that I/O operations can overlap with processor operation. Define the following quantities:
 
