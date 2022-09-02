@@ -41,7 +41,7 @@ If you have any questions and suggestions about the course, experiments and teac
 * Supplementary materials and extended reading  [Download url](https://rec.ustc.edu.cn/share/2520d480-2753-11ed-a521-2f5fcd9031e9) 
 
 ### Assignment
-- P103: Problems 2.1, 2.2, 2.3, 2.4, 2.6 (8th Edition) [Homework url]（https://lyh02.top/Operating-System-2022/homework/1/）
+- P103: Problems 2.1, 2.2, 2.3, 2.4, 2.6 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/1/)
 
 
 ### Assignment Answer
