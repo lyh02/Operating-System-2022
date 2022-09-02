@@ -8,28 +8,28 @@ If you have any questions and suggestions about the course, experiments and teac
 #### Teachers
 - **Pengyuan Zhou** 
    
-  Office：高新区信智大楼 406  
+  Office：Gaoxin Xinzhi Building 406  
   Email：pyzhou@ustc.edu.cn
 
 - **Chi Zhang**  
   
-  Office：西区科技西楼 907   
+  Office：West area Science and Technology Building 907   
   Email：chizhang@ustc.edu.cn
 
 #### TAs
 - **Yihang Lin**  
   
-  Office：高新区信智大楼 405  
+  Office：Gaoxin Xinzhi Building 405  
   Email：lyh1998@mail.ustc.edu.cn 
 
 - **Wei Tang**  
   
-  Office：高新区信智大楼 405  
+  Office：Gaoxin Xinzhi Building 405  
   Email：weitang@mail.ustc.edu.cn
   
 - **Jie Bao**  
   
-  Office：高新区信智大楼 405  
+  Office：Gaoxin Xinzhi Building 405  
   Email：baojie1996@mail.ustc.edu.cn
 
 
