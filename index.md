@@ -41,7 +41,7 @@ If you have any questions and suggestions about the course, experiments and teac
 * Supplementary materials and extended reading  [Download url](https://rec.ustc.edu.cn/share/2520d480-2753-11ed-a521-2f5fcd9031e9) 
 
 ### Assignment
-Homework requirements: answer in English, PDF files，handwriting
+Homework requirements: answer in English, PDF file，handwriting
 
 Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next week after the assignment. It is not allowed to submit the homework for any reason after the deadline. If there are special circumstances, please contact the TAs before the deadline
 
