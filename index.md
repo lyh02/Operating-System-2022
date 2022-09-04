@@ -78,7 +78,7 @@ Corresponding PPTs will be uploaded before the class to ensure the contents up-t
 
 - 02-OS Intro [Download url](https://pan.baidu.com/s/1bTZR1PIW1M6x5X8qenNFVg) （2022/09/01）
 
-- 03-Hardware Support [Download url]() 
+- 03-Hardware Support [Download url](https://pan.baidu.com/s/1Ye7q2JnOmkXf37QKup96rQ) （2022/09/04）
 
 - 04-Process Concept [Download url]()
 
