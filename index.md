@@ -55,7 +55,9 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
 ### Assignment Answer
 
 
-### Experiment MaterialsＯ(≧▽≦)Ｏ(TBD)
+### Experiment MaterialsＯ(≧▽≦)Ｏ 
+* Textbook ：
+* Supplementary materials ：
 
 
 
