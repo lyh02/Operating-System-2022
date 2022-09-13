@@ -57,7 +57,7 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
 
 ### Experiment MaterialsＯ(≧▽≦)Ｏ 
 * Textbook ：[Download url](https://pan.baidu.com/s/1XV7qRyYJCEDuwbWd_HDj8A)  （2022.09.12）
-* Supplementary materials ：[url](https://lyh02.top/Operating-System-2022/lab/0) (2022.09.13) 
+* Supplementary materials ：[url](https://lyh02.top/Operating-System-2022/lab/0/) (2022.09.13) 
 
 
 
