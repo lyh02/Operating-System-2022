@@ -50,6 +50,8 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
   - ddl：2022.09.11 23.59 
 - P37: Problems 1.3, 1.4, 1.7, 1.8, 1.9 (8th Edition)[Homework url](https://lyh02.top/Operating-System-2022/homework/2/) (2022.09.07) 
   - ddl：2022.09.18 23.59 
+- P149: Problems 3.3, 3.5, 3.9 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/3/) (2022.09.15) 
+  - ddl：2022.09.25 23.59 
 
 
 ### Assignment Answer
