@@ -88,7 +88,7 @@ Corresponding PPTs will be uploaded before the class to ensure the contents up-t
 
 - 04-Process Concept [Download url](https://pan.baidu.com/s/1g8O84eZssJ41TeOg5u_t1w) （2022/09/09）
 
-- 05-Thread & IPC [Download url]()
+- 05-Thread & IPC [Download url](https://pan.baidu.com/s/1fW66Ga-42kzO4Z0O0VanZw)（2022/09/18）
 
 - 06-Process Schedule [Download url]()
 
