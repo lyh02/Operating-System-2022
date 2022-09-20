@@ -48,7 +48,7 @@ make qemu-gdb
 
 ![image-20220919122910065](https://cdn.jsdelivr.net/gh/lyh02/images/img/image-20220919122910065.png)
 
-新开一个命令行窗口 
+新开一个命令行窗口 ，位置在user文件夹下
 
 执行
 
