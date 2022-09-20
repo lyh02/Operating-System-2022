@@ -91,7 +91,7 @@ Corresponding PPTs will be uploaded before the class to ensure the contents up-t
 
 - 05-Thread & IPC [Download url](https://pan.baidu.com/s/1fW66Ga-42kzO4Z0O0VanZw)（2022/09/18）
 
-- 06-Process Schedule [Download url]()
+- 06-Process Schedule [Download url](https://pan.baidu.com/s/1INdbChzqmarH1Y2ZFsG6Gg)（2022/09/20）
 
 - 07-Mutual Exclusion [Download url]()
 
