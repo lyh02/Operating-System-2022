@@ -48,7 +48,7 @@ make qemu-gdb
 
 ![image-20220919122910065](https://cdn.jsdelivr.net/gh/lyh02/images/img/image-20220919122910065.png)
 
-新开一个命令行窗口 ，位置在user文件夹下
+新开一个命令行窗口 
 
 执行
 
@@ -99,6 +99,19 @@ list 查看断点处的源代码
 ![image-20220919124951808](https://cdn.jsdelivr.net/gh/lyh02/images/img/image-20220919124951808.png)
 
 ## vscode调试
+
+项目根目录修改.gdbinit文件 
+
+target remote 127.0.0.1:26000   注释掉 或者删除，后续如果使用命令行调试，记得添加回去
+
+```
+set confirm off
+set architecture riscv:rv64
+@REM target remote 127.0.0.1:26000  
+symbol-file kernel/kernel
+set disassemble-next-line auto
+
+```
 
 vscode添加文件
 
