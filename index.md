@@ -93,7 +93,7 @@ Corresponding PPTs will be uploaded before the class to ensure the contents up-t
 
 - 06-Process Schedule [Download url](https://pan.baidu.com/s/1INdbChzqmarH1Y2ZFsG6Gg)（2022/09/20）
 
-- 07-Mutual Exclusion [Download url]()
+- 07-Mutual Exclusion [Download url](https://pan.baidu.com/s/1eR-3cKJjgRGrmLw1w0jKwA) (2022/09/29)
 
 - 08-Synchronization [Download url]()
 
