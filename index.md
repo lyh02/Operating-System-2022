@@ -68,7 +68,7 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
 
 
 ### Experiment Assignment(TBD)
-- Lab1-System calls[materials](https://lyh02.top/Operating-System-2022/lab/Lab1/) (2022.10.09)
+- Lab1-System calls [materials](https://lyh02.top/Operating-System-2022/lab/Lab1/) (2022.10.09)
 
 
 ### Date of experiment Course Guidance  
