@@ -70,6 +70,14 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
 
 
 ### Experiment Assignment(TBD)
+| lab            | start time | ddl        |
+| -------------- | ---------- | ---------- |
+| system calls   | 2022.10.10 | 2022.10.23 |
+| trap           | 2022.10.17 | 2022.10.30 |
+| Multithreading | 2022.10.31 | 2022.11.13 |
+| page tables    | 2022.11.14 | 2022.11.27 |
+| locks          | 2022.11.28 | 2022.12.11 |
+| file system    | 2022.12.05 | 2022.12.18 |
 - Lab1-System calls [materials](https://lyh02.top/Operating-System-2022/lab/Lab1/) (2022.10.09)
 
 
