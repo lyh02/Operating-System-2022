@@ -71,7 +71,14 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
 - Lab1-System calls [materials](https://lyh02.top/Operating-System-2022/lab/Lab1/) (2022.10.09)
 
 
-### Date of experiment Course Guidance  
+### Date of experiment Course Guidance 
+
+| Date      | Location |
+| ----------- | ----------- |
+| Oct 22 14:30-17:30      | 电1楼2厅       |
+| Nov 05 14:30-17:30   | 电1楼2厅        |
+| Nov 19 14:30-17:30   | 电1楼2厅        |
+| Dec 03 14:30-17:30   | 电1楼2厅        |
 
 ### Reference tutorial video
 
