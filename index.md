@@ -73,7 +73,7 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
 
 | lab            | start time | ddl        |
 | -------------- | ---------- | ---------- |
-| system calls   | 2022.10.10 | 2022.10.23 |
+| system call    | 2022.10.10 | 2022.10.23 |
 | trap           | 2022.10.17 | 2022.10.30 |
 | multithreading | 2022.10.31 | 2022.11.13 |
 | page tables    | 2022.11.14 | 2022.11.27 |
