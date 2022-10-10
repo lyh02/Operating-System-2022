@@ -71,6 +71,8 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
 
 ### Experiment Assignment(TBD)
 
+Report requirements: answer in Chinese, PDF file
+
 | lab            | start time | ddl        |
 | -------------- | ---------- | ---------- |
 | system call    | 2022.10.10 | 2022.10.23 |
