@@ -118,7 +118,7 @@ Corresponding PPTs will be uploaded before the class to ensure the contents up-t
 
 - 07-Mutual Exclusion [Download url](https://pan.baidu.com/s/1eR-3cKJjgRGrmLw1w0jKwA) (2022/09/29)
 
-- 08-Synchronization [Download url]()
+- 08-Synchronization [Download url](https://pan.baidu.com/s/1H5BoGRR89HjTCLXW99Opow)(2022/10/14)
 
 - 09-DeadLock [Download url]()
 
