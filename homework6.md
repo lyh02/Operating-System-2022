@@ -90,7 +90,7 @@ void semSignal(semaphore s)
 
 **5.13.** Consider a sharable resource with the following characteristics: (1) As long as there are fewer than three processes using the resource, new processes can start using it right away. (2) Once there are three process using the resource, all three must leave before any new processes can begin using it. We realize that counters are needed to keep track of how many processes are waiting and active, and that these counters are themselves shared resources that must be protected with mutual exclusion. So we might create the following solution:
 
-![Codes of Q 5.13](https://s2.loli.net/2022/10/20/VPAocqe2jCkwH97.png)
+<img src="https://s2.loli.net/2022/10/20/VPAocqe2jCkwH97.png" width="600">
 
 The solution appears to do everything right: All accesses to the shared variables are protected by mutual exclusion, processes do not block themselves while in the mutual exclusion, new processes are prevented from using the resource if there are (or were) three active users, and the last process to depart unblocks up to three waiting processes.
 - a. The program is nevertheless incorrect. Explain why.
@@ -99,7 +99,7 @@ The solution appears to do everything right: All accesses to the shared variable
 
 **5.14.** Now consider this correct solution to the preceding problem:
 
-![Codes of Q 5.14](https://s2.loli.net/2022/10/20/MmoZiKpeIRukChj.png)
+<img src="https://s2.loli.net/2022/10/20/MmoZiKpeIRukChj.png" width="600">
 
 - a. Explain how this program works and why it is correct. 
 - b. This solution does not completely prevent newly arriving processes from cutting in line but it does make it less likely. Give an example of cutting in line.
@@ -107,7 +107,7 @@ The solution appears to do everything right: All accesses to the shared variable
 
 **5.15.** Now consider another correct solution to the preceding problem:
 
-![Codes of Q 5.15](https://s2.loli.net/2022/10/20/uMYfIhqEDaJnomL.png)
+<img src="https://s2.loli.net/2022/10/20/uMYfIhqEDaJnomL.png" width="600">
 
 - a. Explain how this program works and why it is correct.
 - b. Does this solution differ from the preceding one in terms of the number of processes that can be unblocked at a time? Explain.
