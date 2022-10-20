@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "homework5"
-permalink: /homework/5/
+title: "homework6"
+permalink: /homework/6/
 ---
 
-# P249:Problems 5.5, 5.6, 5.12, 5.13, 5.14, 5.15, 5.16 (8th Edition)
+# P249: Problems 5.5, 5.6, 5.12, 5.13, 5.14, 5.15, 5.16 (8th Edition)
 
 **5.5.** Is busy waiting always less efficient (in terms of using processor time) than a blocking wait? Explain.
 
