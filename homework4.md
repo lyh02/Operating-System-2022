@@ -4,7 +4,7 @@ title: "homework4"
 permalink: /homework/4/
 ---
 
-# P195: Problem 4.5 (8th Edition)   P428: Problems 9.1, 9.2, 9.3 (8th Edition)
+# P249: Problem 4.5 (8th Edition)   P428: Problems 9.1, 9.2, 9.3 (8th Edition)
 
 **4.5.** If a process exits and there are still threads of that process running, will they continue to run?
 

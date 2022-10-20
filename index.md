@@ -56,6 +56,7 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
   - ddl：2022.10.09 23.59 
 - ppt [Homework url](https://lyh02.top/Operating-System-2022/homework/5/) (2022.10.09) 
   - ddl：2022.10.16 23.59 
+- P249: Problem 4.5 (8th Edition)   P428: Problems 9.1, 9.2, 9.3 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/6/) (2022.10.30)
 
 
 ### Assignment Answer
