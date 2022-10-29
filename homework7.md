@@ -4,7 +4,7 @@ title: "homework7"
 permalink: /homework/7/
 ---
 
-# P249: Problems 6.5, 6.11, 6.15, 6.16, 6.18 (8th Edition)
+# P302: Problems 6.5, 6.11, 6.15, 6.16, 6.18 (8th Edition)
 
 **6.5.** Given the following state for the Banker’s Algorithm. 
 - 6 processes P0 through P5
