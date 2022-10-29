@@ -121,9 +121,9 @@ Corresponding PPTs will be uploaded before the class to ensure the contents up-t
 
 - 08-Synchronization [Download url](https://pan.baidu.com/s/1H5BoGRR89HjTCLXW99Opow)(2022/10/14)
 
-- 09-DeadLock [Download url]()
+- 09-DeadLock [Download url](https://pan.baidu.com/s/14oaQGffAVlbUzdLJvuC-iw)(2022/10/26)
 
-- 10-Real Memory [Download url]()
+- 10-Real Memory [Download url](https://pan.baidu.com/s/1uavwkgd6agdPUnRl8vILTw)(2022/10/27)
 
 - 11-Virtual Memory [Download url]()
 
