@@ -35,9 +35,11 @@ Apply the banker’s algorithm to determine whether it would be safe to grant ea
 
 **6.15** Consider a system consisting of four processes and a single resource. The current state of the claim and allocation matrices are:
 
-$$
-\mathbf{C}=\left(\begin{array}{l}3 \\ 2 \\ 9 \\ 7\end{array}\right) \quad \mathbf{A}=\left(\begin{array}{l}1 \\ 1 \\ 3 \\ 2\end{array}\right)
-$$
+<!-- $$
+% \mathbf{C}=\left(\begin{array}{l}3 \\ 2 \\ 9 \\ 7\end{array}\right) \quad \mathbf{A}=\left(\begin{array}{l}1 \\ 1 \\ 3 \\ 2\end{array}\right)
+$$ -->
+
+<img src="https://s2.loli.net/2022/10/29/LmrAs9P3gFUyOKo.png" width="300">
 
 What is the minimum number of units of the resource needed to be available for this state to be safe?
 
