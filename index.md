@@ -45,17 +45,17 @@ Homework requirements: answer in English, PDF file，handwriting.
 
 Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next week after the assignment. It is not allowed to submit the homework for any reason after the deadline. If there are special circumstances, please contact the TAs before the deadline.
 
-- P103: Question 2.1, 2.2, 2.3, 2.4, 2.6 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/1/) (2022.09.02)
+- P103: Problems 2.1, 2.2, 2.3, 2.4, 2.6 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/1/) (2022.09.02)
   - ddl：2022.09.18 23.59 
-- P37: Question 1.3, 1.4, 1.7, 1.8, 1.9 (8th Edition)[Homework url](https://lyh02.top/Operating-System-2022/homework/2/) (2022.09.07) 
+- P37: Problems 1.3, 1.4, 1.7, 1.8, 1.9 (8th Edition)[Homework url](https://lyh02.top/Operating-System-2022/homework/2/) (2022.09.07) 
   - ddl：2022.09.18 23.59 
-- P149: Question 3.3, 3.5, 3.9 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/3/) (2022.09.15) 
+- P149: Problems 3.3, 3.5, 3.9 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/3/) (2022.09.15) 
   - ddl：2022.09.25 23.59 
-- P195: Question 4.5 (8th Edition)   P428: Problems 9.1, 9.2, 9.3 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/4/) (2022.10.02) 
+- P195: Problems 4.5 (8th Edition)   P428: Problems 9.1, 9.2, 9.3 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/4/) (2022.10.02) 
   - ddl：2022.10.09 23.59 
 - ppt [Homework url](https://lyh02.top/Operating-System-2022/homework/5/) (2022.10.09) 
   - ddl：2022.10.16 23.59 
-- P249: Question 5.5, 5.6, 5.12, 5.13, 5.14, 5.15, 5.16 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/6/) (2022.10.20)
+- P249: Problems 5.5, 5.6, 5.12, 5.13, 5.14, 5.15, 5.16 (8th Edition) [Homework url](https://lyh02.top/Operating-System-2022/homework/6/) (2022.10.20)
 	- ddl: 2022.10.30 23:59
 
 
