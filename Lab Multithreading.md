@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lab3: traps"
+title: "Lab3: Multithreading"
 permalink: /lab/Lab3/
 ---
 # Lab: Multithreading
