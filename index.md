@@ -128,7 +128,7 @@ Corresponding PPTs will be uploaded before the class to ensure the contents up-t
 
 - 10-Real Memory [Download url](https://pan.baidu.com/s/1uavwkgd6agdPUnRl8vILTw)(2022/10/27)
 
-- 11-Virtual Memory [Download url]()
+- 11-Virtual Memory [Download url](https://pan.baidu.com/s/1nRSAyZgRCLHSKxf5mP8_4g)(2022/11/04)
 
 - 12-IO [Download url]()
 
