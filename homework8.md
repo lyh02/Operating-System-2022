@@ -1,3 +1,9 @@
+---
+layout: page
+title: "homework8"
+permalink: /homework/8/
+---
+
 <head>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
@@ -18,12 +24,6 @@
 }
 </style>
 </head>
-
----
-layout: page
-title: "homework8"
-permalink: /homework/8/
----
 
 # P331: Problems 7.5, 7.6, 7.8, 7.9 (8th Edition)
 
