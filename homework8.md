@@ -2,6 +2,7 @@
 layout: page
 title: "homework8"
 permalink: /homework/8/
+katex: true
 ---
 
 # P331: Problems 7.5, 7.6, 7.8, 7.9 (8th Edition)
