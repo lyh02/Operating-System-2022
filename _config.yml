@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-params:
-  katex: true
+markdown:           kramdown
+kramdown:
+    math_engine:    katex

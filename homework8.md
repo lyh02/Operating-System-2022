@@ -1,8 +1,28 @@
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+<style>
+.katex-display > .katex {
+  display: inline-block;
+  white-space: nowrap;
+  max-width: 100%;
+  overflow-x: scroll;
+  text-align: initial;
+}
+.katex {
+  font: normal 1.21em KaTeX_Main, Times New Roman, serif;
+  line-height: 1.2;
+  white-space: normal;
+  text-indent: 0;
+}
+</style>
+</head>
+
 ---
 layout: page
 title: "homework8"
 permalink: /homework/8/
-katex: true
 ---
 
 # P331: Problems 7.5, 7.6, 7.8, 7.9 (8th Edition)
@@ -23,4 +43,4 @@ Consider a buddy system in which a particular block under the current allocation
 - a. If the block is of size 4, what is the binary address of its buddy?
 - b. If the block is of size 16, what is the binary address of its buddy?
 
-**7.9** Let $$\text{buddy}_k(x) = \text{address} $$ of the buddy of the block of size $2^k$ whose address is $x$. Write a general expression for $$\text{buddy}_k(x)$$.
+**7.9**  Let $$\text{buddy}_k(x) = \text{address} $$ of the buddy of the block of size $$2^k$$ whose address is $$x$$. Write a general expression for $$\text{buddy}_k(x)$$.
