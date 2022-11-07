@@ -43,4 +43,5 @@ Consider a buddy system in which a particular block under the current allocation
 **7.9**  Let $\text{buddy}_k(x) = \text{address} $ of the buddy of the block of size $2^k$ whose address is $x$. Write a general expression for $\text{buddy}_k(x)$.
 
 *For Problem 7.9, In case the Katex not work, please kindly refer to the image below.*
+
 <img src="https://s2.loli.net/2022/11/07/VmKBaue9jbU38lZ.png" width=600>
