@@ -32,6 +32,7 @@ permalink: /homework/10/
 - e. How many bits in each page table entry? Assume each page table entry contains a valid/invalid bit.
 
 **7.14** Consider a simple segmentation system that has the following segment table:
+
 | Starting Addres | Length(bytes) |
 | - | - |
 | 600 | 248 |
