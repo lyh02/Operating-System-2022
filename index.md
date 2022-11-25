@@ -139,7 +139,7 @@ Corresponding PPTs will be uploaded before the class to ensure the contents up-t
 
 - 11-Virtual Memory [Download url](https://pan.baidu.com/s/1nRSAyZgRCLHSKxf5mP8_4g)(2022/11/04)
 
-- 12-IO [Download url]()
+- 12-IO [Download url](https://pan.baidu.com/s/15W9rJth340qdj3wpkmKy6Q) (2022/11/25)
 
 - 13-File-1 [Download url]()
 
