@@ -97,6 +97,7 @@ Report requirements: answer in Chinese, PDF file
 - Lab2-Trap   [materials](https://lyh02.top/Operating-System-2022/lab/Lab2/) (2022.10.17)
 - Lab3-Multithreading   [materials](https://lyh02.top/Operating-System-2022/lab/Lab3/) (2022.10.31)
 - Lab4-Page tables   [materials](https://lyh02.top/Operating-System-2022/lab/Lab4/) (2022.11.14)
+- Lab5-Locks   [materials](https://lyh02.top/Operating-System-2022/lab/Lab5/) (2022.11.28)
 
 ### Date of experiment Course Guidance 
 
