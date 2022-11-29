@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Lab6: file system"
+permalink: /lab/Lab6/
+---
 # Lab: file system
 
 In this lab you will add large files and symbolic links to the xv6 file system.
