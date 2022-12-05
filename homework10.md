@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "homework8"
+title: "homework10"
 permalink: /homework/10/
 ---
 

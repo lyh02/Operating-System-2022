@@ -65,6 +65,8 @@ Homework DDL: submit the homework before 12:00 p.m. on the Sunday of the next we
 	- ddl: 2022.11.20 23:59
 - P332: Problems 7.12, 7.14, 7.15, P392: Problems 8.1, 8.4, 8.5 (8th Edition)  [Homework url](https://lyh02.top/Operating-System-2022/homework/10/) (2022.11.18)
   - ddl: 2022.12.4 23:59
+- P520: Problems 11.1, 11.2, 11.3 (8th Edition)  [Homework url](https://lyh02.top/Operating-System-2022/homework/11/) (2022.12.02)
+  - ddl: 2022.12.11 23:59
 
 
 
